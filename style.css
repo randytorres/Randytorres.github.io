@@ -23,6 +23,11 @@
 
 
 /***Header***/
+.carousel-caption {
+  bottom: auto;
+  top: 50px;
+}
+
 .carousel-caption h2,
 .carousel-caption p {
   font-weight: 300;
@@ -56,6 +61,10 @@
 }
 
 /*About Me*/
+.image {
+  right: 50px;
+}
+
 .aboutme h1 {
   padding-bottom: 100px;
 }
@@ -64,6 +73,13 @@
   padding-bottom: 75px;
   padding-top: 75px;
   font-family: Georgia, serif;
+}
+
+#about-me {
+  margin-left: 10%;
+  margin-right: 0;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .aboutme_image {
