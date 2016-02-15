@@ -25,7 +25,7 @@
 /***Header***/
 .carousel-caption {
   bottom: auto;
-  top: 0;
+  top: 50px;
 }
 
 .carousel-caption h2,
